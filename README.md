@@ -38,9 +38,8 @@
 ## ☕ Hit Me Up Here
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vipulverma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://instagram.com/vipul.verma" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram" /></a>
-  <a href="mailto:vipul@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/vipulverma7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:vipulverma4577@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
 </p>
 
 ---
