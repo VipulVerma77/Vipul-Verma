@@ -34,6 +34,17 @@
 </p>
 
 ---
+## 🧠 LeetCode Progress
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/vipulverma4577/)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vipulverma4577?ext=contest" />
+</p>
+
+📘 [Check out my full LeetCode profile →](https://leetcode.com/u/vipulverma4577/)
+
+---
 
 ## ☕ Hit Me Up Here
 
