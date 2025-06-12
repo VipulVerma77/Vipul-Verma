@@ -1,26 +1,16 @@
-<h1 align="center">Hola, I'm Vipul Verma 👋</h1>
+<h1 align="center">Hello, I'm Vipul Verma 👋</h1>
 
 ## 👨‍💻 About Me
 
 - 👨🏻‍💻 Pronouns: He/Him  
-- 💼 Currently building full-stack apps and working with MERN + TypeScript  
-- 📋 Backend engineer by heart, but passionate about frontend too  
+- 💼 Currently working as Software Engineer(Frontend) in Continuum Electroproducts Pvt Ltd
+- 📋 Frontend engineer by heart, but passionate about Backend too  
 - 🎯 Working on a YouTube clone & a React Native kiosk app using Expo + SIP2 protocol  
 - 🧠 Learning advanced networking, real-time systems, and TCP socket integration  
-- 📚 I love helping others with coding and system design prep  
+- 🎭 I love speaking at events and connecting with people. 
 - 🎥 Built video apps, blog platforms, and real-world responsive UIs  
 - ⚙️ I believe in clean code, performance, and user-first design  
 - 📫 Reach me through socials below!
-
----
-
-## 📺 Featured Projects & Talks
-
-- 🔗 [YouTube Clone (MERN Stack + TS)](https://github.com/yourusername/your-repo)  
-- 📱 [React Native Kiosk App with SIP2](https://github.com/yourusername/your-repo)  
-- 📝 [Blog Platform (MERN + TypeScript)](https://github.com/yourusername/your-repo)
-
-> 🎙️ Coming soon: Devlog + video series on building full-stack projects from scratch
 
 ---
 
