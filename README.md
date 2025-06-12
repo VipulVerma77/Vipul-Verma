@@ -1,44 +1,61 @@
-<h1 align="center">Hi 👋, I'm Vipul Verma</h1>
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<h1 align="center">Hola, I'm Vipul Verma 👋</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **a YouTube clone**
-- 🌱 I’m learning **React Native + SIP2 integration**
-- 💬 Ask me about **MERN, TypeScript, Tailwind, SIP2, Socket programming**
-- 📫 How to reach me: **vipul@example.com**
-- ⚡ Fun fact: I love open source and building cool UI 🔥
+- 👨🏻‍💻 Pronouns: He/Him  
+- 💼 Currently building full-stack apps and working with MERN + TypeScript  
+- 📋 Backend engineer by heart, but passionate about frontend too  
+- 🎯 Working on a YouTube clone & a React Native kiosk app using Expo + SIP2 protocol  
+- 🧠 Learning advanced networking, real-time systems, and TCP socket integration  
+- 📚 I love helping others with coding and system design prep  
+- 🎥 Built video apps, blog platforms, and real-world responsive UIs  
+- ⚙️ I believe in clean code, performance, and user-first design  
+- 📫 Reach me through socials below!
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left"> 
+## 📺 Featured Projects & Talks
+
+- 🔗 [YouTube Clone (MERN Stack + TS)](https://github.com/yourusername/your-repo)  
+- 📱 [React Native Kiosk App with SIP2](https://github.com/yourusername/your-repo)  
+- 📝 [Blog Platform (MERN + TypeScript)](https://github.com/yourusername/your-repo)
+
+> 🎙️ Coming soon: Devlog + video series on building full-stack projects from scratch
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipulverma&show_icons=true&theme=radical" alt="Vipul's stats" />
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulverma&theme=tokyonight" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+## ☕ Hit Me Up Here
+
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipulverma&theme=onedark" />
+  <a href="https://www.linkedin.com/in/vipulverma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://instagram.com/vipul.verma" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram" /></a>
+  <a href="mailto:vipul@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
 </p>
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/vipulverma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vipulverma" height="30" width="40" /></a>
-  <a href="mailto:vipul@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="vipul mail" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
-# Vipul-Verma
