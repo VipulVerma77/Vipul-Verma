@@ -30,7 +30,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulverma&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VipulVerma77&theme=tokyonight" />
 </p>
 
 ---
