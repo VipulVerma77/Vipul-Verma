@@ -37,20 +37,21 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulverma77&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 LeetCode Stats
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/vipulverma4577/)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vipulverma4577?ext=contest&theme=dark" />
+</p>
+
+---
+
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulverma77&theme=tokyonight" />
 </p>
 
 ---
