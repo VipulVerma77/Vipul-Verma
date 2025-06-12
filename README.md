@@ -42,7 +42,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/vipulverma4577/)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vipulverma4577?ext=contest&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/vipulverma4577?ext=contest&theme=dark&animation=true&border=true" />
 </p>
 
 ---
