@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#007acc">Vipul Verma</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#007acc">Vipul Verma</span></h1>
 <p align="center">
-  💻 Software Engineer (React.js) | ⚛️ React Native Enthusiast | 
-  📍 India &nbsp; | &nbsp; 🧠 Lifelong Learner | 🌐 Passionate Coder
+  💻 Frontend Software Engineer | ⚛️ React & React Native Developer | 
+  🌍 Based in India | 📚 Passionate Problem Solver & Lifelong Learner
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=580&lines=Software+Engineer+%28Frontend%29+%40+Continuum;React+Native+App+Developer;YouTube+Clone+in+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Continuum+ElectroProducts;React+Native+App+Developer;Real-time+WebSocket+Integration;YouTube+Clone+in+Progress" />
 </p>
 
 ---
@@ -15,11 +15,12 @@
 ## 👨‍💻 About Me
 
 - 👨🏻‍💻 Pronouns: He/Him  
-- 💼 Software Engineer (Frontend) @ **Continuum Electroproducts Pvt Ltd**
-- ⚛️ Focused on **React**, **React Native**, and clean component architecture
-- 🎯 Building: **YouTube clone** | **Expo + SIP2 Kiosk App**
-- 🧠 Learning **advanced networking**, **real-time TCP sockets**, and backend optimizations
-- 🎤 Love sharing knowledge and building clean, performance-focused UIs
+- 💼 Frontend Software Engineer @ **Continuum ElectroProducts Pvt Ltd**
+- ⚛️ Specializing in **React.js**, **React Native**, and **real-time UI development**
+- 🚀 Built scalable features that improved **performance by 25%** and **engagement by 30%**
+- 🔧 Working on: **YouTube Clone**, **Expo + SIP2 Kiosk App**
+- 📡 Currently learning advanced **networking**, **WebSocket protocols**, and **Node.js**
+- 🧠 Strong believer in clean code, component-driven architecture, and design consistency
 
 ---
 
@@ -30,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.io" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45"/>
@@ -46,7 +48,6 @@
 </p>
 
 ---
-
 
 ## 🔥 GitHub Streak
 
